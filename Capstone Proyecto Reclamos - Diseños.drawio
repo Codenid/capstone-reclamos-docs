@@ -1,9 +1,31 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="vEObH47PybKI_NBHjM-H">
-    <mxGraphModel dx="1227" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1227" dy="733" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0Y-oFnzRearT_jK_rc5e-3" edge="1" parent="1" source="0Y-oFnzRearT_jK_rc5e-1" style="edgeStyle=orthogonalEdgeStyle;html=1;fontFamily=Fira Sans;fontSize=12;fontColor=#555555;" target="0Y-oFnzRearT_jK_rc5e-2" value="accede">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Y-oFnzRearT_jK_rc5e-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Fira Sans;fontSize=14;fontColor=#222222;" value="Draw.io" vertex="1">
+          <mxGeometry height="60" width="253" x="99" y="173" as="geometry" />
+        </mxCell>
+        <mxCell id="0Y-oFnzRearT_jK_rc5e-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Fira Sans;fontSize=14;fontColor=#222222;" value="GitHub" vertex="1">
+          <mxGeometry height="60" width="253" x="476" y="173" as="geometry" />
+        </mxCell>
+        <mxCell id="0Y-oFnzRearT_jK_rc5e-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Fira Sans;fontSize=14;fontColor=#222222;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Diagramas&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Conextuales, arquitectura, datos, etc.&lt;/p&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="8" y="7" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://github.com/Codenid/capstone-reclamos-docs&quot;&gt;Codenid/capstone-reclamos-docs&lt;/a&gt;" link="&lt;a href=&quot;https://github.com/Codenid/capstone-reclamos-docs&quot;&gt;Codenid/capstone-reclamos-docs&lt;/a&gt;" id="0Y-oFnzRearT_jK_rc5e-5">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Fira Sans;fontSize=14;fontColor=#222222;align=center;" vertex="1">
+            <mxGeometry height="39" width="243" x="481.00331298828127" y="248.00331298828127" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://app.diagrams.net/" link="https://app.diagrams.net/" id="0Y-oFnzRearT_jK_rc5e-6">
+          <mxCell parent="1" style="text;whiteSpace=wrap;fontFamily=Fira Sans;fontSize=14;fontColor=#222222;align=center;" vertex="1">
+            <mxGeometry height="39" width="194" x="128.50331298828124" y="246.00331298828127" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
